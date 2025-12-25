@@ -1,0 +1,1 @@
+# splunk-installtion-on-aws-linux
