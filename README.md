@@ -1,5 +1,8 @@
 # splunk-installtion-on-aws-linux
 step by step guide for this 
+
+
+
 cd /opt/
 wget -O splunk-9.0.1-82c987350fde-Linux-x86_64.tgz "https://download.splunk.com/products/splunk/releases/9.0.1/linux/splunk-9.0.1-82c987350fde-Linux-x86_64.tgz"
 
