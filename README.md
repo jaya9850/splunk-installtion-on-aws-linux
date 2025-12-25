@@ -1,9 +1,4 @@
-Here is a **GitHub-ready `README.md`** you can copy-paste directly into your repository.
-It’s clean, professional, and formatted using standard Markdown.
 
----
-
-````md
 # Splunk Enterprise Installation on AWS Linux (EC2)
 
 This repository provides a **step-by-step guide** to install and run **Splunk Enterprise 9.0.1** on an **AWS EC2 Linux instance**.
